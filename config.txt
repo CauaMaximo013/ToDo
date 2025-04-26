@@ -1,0 +1,14 @@
+git config --global user.name CauaMaximo013
+git config --global user.email maximocaua13@gmail.com
+
+Criar Projeto Angular
+ng new todo
+
+criar um componente
+ng g(Generete) c(componente) todo-list
+
+Executar o Projeto
+ng serve -o
+
+
+npm i bootstrap
